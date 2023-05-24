@@ -1,2 +1,2 @@
-# React-Native practice
-React-Native practice 리액트 네이티브 연습
+# 리액트 네이티브 연습
+React-Native practice 
